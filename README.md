@@ -16,14 +16,14 @@ derive insights that can support smarter trading and risk management strategies.
    - Daily sentiment classification (Fear, Neutral, Greed)
    - Source: Provided as part of the assignment
    - Original data link:
-     https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
+     https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
 
 2. **Historical Trader Data (Hyperliquid)**
    - Historical Bitcoin trade-level data
    - Includes position size, trade direction, and realized PnL
    - Source: Provided as part of the assignment
    - Original data link:
-     https://drive.google.com/file/d/1IAfLZwu6rJzYWKgBTogwSmmVYU6VbjVs/view
+     https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 
 ---
