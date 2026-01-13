@@ -92,5 +92,9 @@ behavior-aware trading strategies and risk management frameworks.
 
 1. Clone or download the repository
 2. Install dependencies:
-   ```bash
+```bash
 pip install -r requirements.txt
+
+
+
+nts.txt
