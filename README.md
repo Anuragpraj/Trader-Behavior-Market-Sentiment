@@ -95,6 +95,3 @@ behavior-aware trading strategies and risk management frameworks.
 ```bash
 pip install -r requirements.txt
 
-
-
-nts.txt
