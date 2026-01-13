@@ -12,16 +12,19 @@ derive insights that can support smarter trading and risk management strategies.
 
 ## Datasets Used
 
-1. **Bitcoin Fear & Greed Index**
-   - Daily market sentiment classification (Fear, Neutral, Greed)
-   - Includes sentiment intensity score (0–100)
+1. **Bitcoin Market Sentiment (Fear & Greed Index)**
+   - Daily sentiment classification (Fear, Neutral, Greed)
+   - Source: Provided as part of the assignment
+   - Original data link:
+     https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
 
-2. **Historical Trader Data**
-   - Executed Bitcoin trades
+2. **Historical Trader Data (Hyperliquid)**
+   - Historical Bitcoin trade-level data
    - Includes position size, trade direction, and realized PnL
+   - Source: Provided as part of the assignment
+   - Original data link:
+     https://drive.google.com/file/d/1IAfLZwu6rJzYWKgBTogwSmmVYU6VbjVs/view
 
-Both datasets are merged at a daily level to align market sentiment
-with actual trading behavior.
 
 ---
 
